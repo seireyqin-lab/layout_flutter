@@ -11,8 +11,8 @@ Aplikasi Flutter sederhana untuk menampilkan informasi SMKN 1 Purwosari.
 - Tombol EMAIL
 - Tampilan dengan warna custom
 
-<h2>Dokumentasi</h2>
+## Dokumentasi
 
-<p>Berikut hasil akhir aplikasi:</p>
+Berikut hasil akhir aplikasi:
 
-<img src="https://github.com/user-attachments/assets/71f3ef1c-4fef-4b4a-a132-c7562f772b73" width="400" alt="Hasil Aplikasi">
+<img src="./smkn1.jpeg" width="400" alt="Hasil Aplikasi">
