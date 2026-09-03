@@ -15,5 +15,4 @@ Aplikasi Flutter sederhana untuk menampilkan informasi SMKN 1 Purwosari.
 
 Berikut hasil akhir aplikasi:
 
-![Hasil Aplikasi](<img width="720" height="1600" alt="smkn1" src="https://github.com/user-attachments/assets/71f3ef1c-f4ef-4b4a-a132-c7562f772b73" />
-)
+![Hasil Aplikasi](https://github.com/user-attachments/assets/71f3ef1c-4fef-4b4a-a132-c7562f772b73)
