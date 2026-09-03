@@ -1,17 +1,19 @@
 # layout_flutter
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk menampilkan informasi SMKN 1 Purwosari.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Menampilkan foto sekolah
+- Informasi sekolah
+- Tombol CALL
+- Tombol ROUTE
+- Tombol EMAIL
+- Tampilan dengan warna custom
 
-A few resources to get you started if this is your first Flutter project:
+## Dokumentasi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Berikut hasil akhir aplikasi:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Hasil Aplikasi](<img width="720" height="1600" alt="smkn1" src="https://github.com/user-attachments/assets/71f3ef1c-f4ef-4b4a-a132-c7562f772b73" />
+)
